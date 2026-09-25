@@ -1,0 +1,1418 @@
+[
+  {
+    "root": "*méh₂tēr-",
+    "reconstructedMeaning": "mother",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "mother",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Mutter",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "madre",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "माता (mātā)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "มารดา (mān-dā)",
+        "relationship": "borrowed",
+        "note": "loanword from Sanskrit/Pali; native Thai word is แม่ (mâe)"
+      }
+    ]
+  },
+  {
+    "root": "*bʰréh₂tēr-",
+    "reconstructedMeaning": "brother",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "brother",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Bruder",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "fraile",
+        "relationship": "inherited",
+        "note": "friar, 'brother' in a religious order"
+      },
+      {
+        "language": "Hindi",
+        "word": "भाई (bhāī)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ภราดา (phra-dā)",
+        "relationship": "borrowed",
+        "note": "brother (formal); loanword from Sanskrit/Pali"
+      }
+    ]
+  },
+  {
+    "root": "*dwóh₁",
+    "reconstructedMeaning": "two",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "two",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "zwei",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "dos",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "दो (do)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ทวิ (thawi)",
+        "relationship": "borrowed",
+        "note": "'bi-', as in ทวิภาคี 'bilateral'; native Thai word is สอง (sɔ̌ɔng)"
+      }
+    ]
+  },
+  {
+    "root": "*tréyes",
+    "reconstructedMeaning": "three",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "three",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "drei",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "tres",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "तीन (tīn)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ตรี (trī)",
+        "relationship": "borrowed",
+        "note": "as in ตรีโกณ 'triangle'; native Thai word is สาม (sǎam)"
+      }
+    ]
+  },
+  {
+    "root": "*séptm̥",
+    "reconstructedMeaning": "seven",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "seven",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "sieben",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "siete",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "सात (sāt)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "สัปดาห์ (sap-dā)",
+        "relationship": "borrowed",
+        "note": "'week', literally a group of seven days; native Thai for seven is เจ็ด (jèt)"
+      }
+    ]
+  },
+  {
+    "root": "*déḱm̥",
+    "reconstructedMeaning": "ten",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ten",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "zehn",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "diez",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "दस (das)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ทศ (thot)",
+        "relationship": "borrowed",
+        "note": "as in ทศวรรษ 'decade'; native Thai word is สิบ (sìp)"
+      }
+    ]
+  },
+  {
+    "root": "*h₁nómn̥",
+    "reconstructedMeaning": "name",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "name",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Name",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "nombre",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "नाम (nām)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "นาม (nām)",
+        "relationship": "borrowed",
+        "note": "formal; loanword from Sanskrit/Pali; everyday word is ชื่อ (chʉ̂ʉ)"
+      }
+    ]
+  },
+  {
+    "root": "*weyd-",
+    "reconstructedMeaning": "to see, to know",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "wit",
+        "relationship": "inherited",
+        "note": "also 'wise'"
+      },
+      {
+        "language": "German",
+        "word": "wissen",
+        "relationship": "inherited",
+        "note": "to know"
+      },
+      {
+        "language": "Spanish",
+        "word": "ver",
+        "relationship": "inherited",
+        "note": "to see"
+      },
+      {
+        "language": "Hindi",
+        "word": "विद्या (vidyā)",
+        "relationship": "inherited",
+        "note": "knowledge"
+      },
+      {
+        "language": "Thai",
+        "word": "วิทยา (witthayā)",
+        "relationship": "borrowed",
+        "note": "science, as in วิทยาศาสตร์"
+      }
+    ]
+  },
+  {
+    "root": "*ǵneh₃-",
+    "reconstructedMeaning": "to know",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "know",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "kennen",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "conocer",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "ज्ञान (jñān)",
+        "relationship": "inherited",
+        "note": "knowledge"
+      },
+      {
+        "language": "Thai",
+        "word": "ญาณ (yān)",
+        "relationship": "borrowed",
+        "note": "insight, intuition"
+      }
+    ]
+  },
+  {
+    "root": "*ped-",
+    "reconstructedMeaning": "foot",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "foot",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Fuß",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "pie",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "पद (pad)",
+        "relationship": "inherited",
+        "note": "also पैदल (paidal, 'on foot')"
+      },
+      {
+        "language": "Thai",
+        "word": "บาท (bāt)",
+        "relationship": "borrowed",
+        "note": "foot (literary) and the currency name; everyday word is เท้า (táao)"
+      }
+    ]
+  },
+  {
+    "root": "*ḱerd-",
+    "reconstructedMeaning": "heart",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "heart",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Herz",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "corazón",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "हृदय (hṛday)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "หฤทัย (ha-rue-thai)",
+        "relationship": "borrowed",
+        "note": "heart (literary); everyday word is หัวใจ (hǔa-jai)"
+      }
+    ]
+  },
+  {
+    "root": "*h₂stḗr",
+    "reconstructedMeaning": "star",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "star",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Stern",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "estrella",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "तारा (tārā)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ดารา (dārā)",
+        "relationship": "borrowed",
+        "note": "star, also 'celebrity'; everyday word is ดาว (dāao)"
+      }
+    ]
+  },
+  {
+    "root": "*ǵenh₁-",
+    "reconstructedMeaning": "to beget, be born",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "kin",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Kind",
+        "relationship": "inherited",
+        "note": "child"
+      },
+      {
+        "language": "Spanish",
+        "word": "gente",
+        "relationship": "inherited",
+        "note": "also género"
+      },
+      {
+        "language": "Hindi",
+        "word": "जन्म (janm)",
+        "relationship": "inherited",
+        "note": "birth"
+      },
+      {
+        "language": "Thai",
+        "word": "ชาติ (chāt)",
+        "relationship": "borrowed",
+        "note": "birth or nation"
+      }
+    ]
+  },
+  {
+    "root": "*dʰwer-",
+    "reconstructedMeaning": "door",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "door",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Tür",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "fuera",
+        "relationship": "inherited",
+        "note": "outside, originally 'out the door'"
+      },
+      {
+        "language": "Hindi",
+        "word": "द्वार (dvār)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ทวาร (thawān)",
+        "relationship": "borrowed",
+        "note": "gate or opening; everyday word is ประตู (prà-tū)"
+      }
+    ]
+  },
+  {
+    "root": "*h₂eys-",
+    "reconstructedMeaning": "to seek, wish",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "ask",
+        "relationship": "inherited",
+        "note": "via Proto-Germanic *aiskōną"
+      },
+      {
+        "language": "German",
+        "word": "heischen",
+        "relationship": "inherited",
+        "note": "to demand (archaic)"
+      },
+      {
+        "language": "Hindi",
+        "word": "इच्छा (icchā)",
+        "relationship": "inherited",
+        "note": "desire, wish"
+      },
+      {
+        "language": "Thai",
+        "word": "อิจฉา (it-chā)",
+        "relationship": "borrowed",
+        "note": "envy; from Pali/Sanskrit icchā 'desire'"
+      }
+    ]
+  },
+  {
+    "root": "*weǵʰ-",
+    "reconstructedMeaning": "to carry, convey",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "way",
+        "relationship": "inherited",
+        "note": "also 'wagon'"
+      },
+      {
+        "language": "German",
+        "word": "Weg",
+        "relationship": "inherited",
+        "note": "also 'Wagen'"
+      },
+      {
+        "language": "Spanish",
+        "word": "vehículo",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "वाहन (vāhan)",
+        "relationship": "inherited",
+        "note": "vehicle"
+      },
+      {
+        "language": "Thai",
+        "word": "พาหนะ (phāhana)",
+        "relationship": "borrowed",
+        "note": "vehicle"
+      }
+    ]
+  },
+  {
+    "root": "*yewg-",
+    "reconstructedMeaning": "to join, yoke",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "yoke",
+        "relationship": "inherited",
+        "note": "also 'join', 'junction', 'conjugal' via Latin iungere; 'yoga' via Sanskrit"
+      },
+      {
+        "language": "German",
+        "word": "Joch",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "yugo",
+        "relationship": "inherited",
+        "note": "also juntar, junta, cónyuge ('co-yoked' = spouse)"
+      },
+      {
+        "language": "Hindi",
+        "word": "योग (yog)",
+        "relationship": "inherited",
+        "note": "also युक्त (yukt, 'joined'), युक्ति (yukti, 'method')"
+      },
+      {
+        "language": "Thai",
+        "word": "โยคะ (yōka)",
+        "relationship": "borrowed",
+        "note": "yoga; also ยุค (yuk, 'era'), ประโยค (prayōk, 'sentence')"
+      }
+    ]
+  },
+  {
+    "root": "*mer-",
+    "reconstructedMeaning": "to die",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "murder",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Mord",
+        "relationship": "inherited",
+        "note": "murder"
+      },
+      {
+        "language": "Spanish",
+        "word": "muerte",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "मृत्यु (mṛtyu)",
+        "relationship": "inherited",
+        "note": "death"
+      },
+      {
+        "language": "Thai",
+        "word": "มรณะ (marana)",
+        "relationship": "borrowed",
+        "note": "death; from Pali maraṇa"
+      }
+    ]
+  },
+  {
+    "root": "*gʷem-",
+    "reconstructedMeaning": "to come, go",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "come",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "kommen",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "venir",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "आगमन (āgaman)",
+        "relationship": "inherited",
+        "note": "arrival"
+      },
+      {
+        "language": "Thai",
+        "word": "คมนาคม (khamanākhom)",
+        "relationship": "borrowed",
+        "note": "transportation"
+      }
+    ]
+  },
+  {
+    "root": "*steh₂-",
+    "reconstructedMeaning": "to stand",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "stand",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "stehen",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "estar",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "स्थान (sthān)",
+        "relationship": "inherited",
+        "note": "place"
+      },
+      {
+        "language": "Thai",
+        "word": "สถานี (sathānī)",
+        "relationship": "borrowed",
+        "note": "station"
+      }
+    ]
+  },
+  {
+    "root": "*h₃reǵ-",
+    "reconstructedMeaning": "to straighten, rule",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "right",
+        "relationship": "inherited",
+        "note": "also 'regal', 'reign' via Latin rēx"
+      },
+      {
+        "language": "German",
+        "word": "Reich",
+        "relationship": "inherited",
+        "note": "realm; also 'recht' (right)"
+      },
+      {
+        "language": "Spanish",
+        "word": "rey",
+        "relationship": "inherited",
+        "note": "king"
+      },
+      {
+        "language": "Hindi",
+        "word": "राज (rāj)",
+        "relationship": "inherited",
+        "note": "rule, kingdom"
+      },
+      {
+        "language": "Thai",
+        "word": "ราช (rāt)",
+        "relationship": "borrowed",
+        "note": "royal"
+      }
+    ]
+  },
+  {
+    "root": "*lewk-",
+    "reconstructedMeaning": "light, bright",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "light",
+        "relationship": "inherited",
+        "note": "also 'lucid', 'illuminate' via Latin lūx"
+      },
+      {
+        "language": "German",
+        "word": "Licht",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "luz",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "लोक (lok)",
+        "relationship": "inherited",
+        "note": "world; originally 'open, lit space'"
+      },
+      {
+        "language": "Thai",
+        "word": "โลก (lōk)",
+        "relationship": "borrowed",
+        "note": "world"
+      }
+    ]
+  },
+  {
+    "root": "*sóh₂wl̥",
+    "reconstructedMeaning": "sun",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "sun",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Sonne",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "sol",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "सूर्य (sūrya)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "สุริยะ (suriya)",
+        "relationship": "borrowed",
+        "note": "as in สุริยุปราคา 'solar eclipse'; everyday word is พระอาทิตย์/ตะวัน"
+      }
+    ]
+  },
+  {
+    "root": "*pleh₁-",
+    "reconstructedMeaning": "to fill",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "full",
+        "relationship": "inherited",
+        "note": "also 'plenty', 'plural' via Latin plēnus"
+      },
+      {
+        "language": "German",
+        "word": "voll",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "lleno",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "पूर्ण (pūrṇ)",
+        "relationship": "inherited",
+        "note": "complete, full"
+      },
+      {
+        "language": "Thai",
+        "word": "บูรณะ (būrana)",
+        "relationship": "borrowed",
+        "note": "to restore, make whole"
+      }
+    ]
+  },
+  {
+    "root": "*gʷṓws",
+    "reconstructedMeaning": "cow",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "cow",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Kuh",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "buey",
+        "relationship": "inherited",
+        "note": "ox; also bovino"
+      },
+      {
+        "language": "Hindi",
+        "word": "गाय (gāy)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "โค (khō)",
+        "relationship": "borrowed",
+        "note": "ox, cattle (formal); everyday word is วัว (wua)"
+      }
+    ]
+  },
+  {
+    "root": "*ǵʰans-",
+    "reconstructedMeaning": "goose",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "goose",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Gans",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "ganso",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "हंस (hans)",
+        "relationship": "inherited",
+        "note": "swan or goose"
+      },
+      {
+        "language": "Thai",
+        "word": "หงส์ (hong)",
+        "relationship": "borrowed",
+        "note": "mythical swan"
+      }
+    ]
+  },
+  {
+    "root": "*h₁rewdʰ-",
+    "reconstructedMeaning": "red",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "red",
+        "relationship": "inherited",
+        "note": "also 'ruby', 'rouge' via Latin ruber"
+      },
+      {
+        "language": "German",
+        "word": "rot",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "rojo",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "रुधिर (rudhir)",
+        "relationship": "inherited",
+        "note": "blood; also लोहित (lohit, 'red')"
+      },
+      {
+        "language": "Thai",
+        "word": "โลหิต (lōhit)",
+        "relationship": "borrowed",
+        "note": "blood (formal); everyday word for red is แดง (daeng)"
+      }
+    ]
+  },
+  {
+    "root": "*néwos",
+    "reconstructedMeaning": "new",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "new",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "neu",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "nuevo",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "नवीन (navīn)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "นว (nawa)",
+        "relationship": "borrowed",
+        "note": "as in นวัตกรรม 'innovation'; everyday word is ใหม่ (mài)"
+      }
+    ]
+  },
+  {
+    "root": "*h₃dónts",
+    "reconstructedMeaning": "tooth",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "tooth",
+        "relationship": "inherited",
+        "note": "also 'dental', 'dentist' via Latin dēns"
+      },
+      {
+        "language": "German",
+        "word": "Zahn",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "diente",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "दाँत (dā̃t)",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Thai",
+        "word": "ทันต (than-ta)",
+        "relationship": "borrowed",
+        "note": "as in ทันตแพทย์ 'dentist'; everyday word is ฟัน (fan)"
+      }
+    ]
+  },
+  {
+    "root": "*néh₂s",
+    "reconstructedMeaning": "nose",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "nose",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "German",
+        "word": "Nase",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "nariz",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "नाक (nāk)",
+        "relationship": "inherited",
+        "note": "also नासिका (nāsikā)"
+      },
+      {
+        "language": "Thai",
+        "word": "นาสิก (nāsik)",
+        "relationship": "borrowed",
+        "note": "nose or nasal (formal); everyday word is จมูก (jà-mùuk)"
+      }
+    ]
+  },
+  {
+    "root": "*h₂er-",
+    "reconstructedMeaning": "to fit together, arrange",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "art",
+        "relationship": "inherited",
+        "note": "also 'arm'; 'rite' possibly via Latin rītus"
+      },
+      {
+        "language": "German",
+        "word": "Arm",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Spanish",
+        "word": "arte",
+        "relationship": "inherited",
+        "note": "also rito"
+      },
+      {
+        "language": "Hindi",
+        "word": "ऋतु (ṛtu)",
+        "relationship": "inherited",
+        "note": "season; also ऋत (ṛt, 'cosmic order')"
+      },
+      {
+        "language": "Thai",
+        "word": "ฤดู (rue-dū)",
+        "relationship": "borrowed",
+        "note": "season"
+      }
+    ]
+  },
+  {
+    "root": "*weyḱ-",
+    "reconstructedMeaning": "settlement, clan, household",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "-wick / -wich",
+        "relationship": "inherited",
+        "note": "surviving as a place-name suffix: Warwick, Greenwich, Norwich"
+      },
+      {
+        "language": "German",
+        "word": "-wiek / -wick",
+        "relationship": "inherited",
+        "note": "surviving in place names: Braunschweig was Brunswiek"
+      },
+      {
+        "language": "Spanish",
+        "word": "vecino",
+        "relationship": "inherited",
+        "note": "neighbor; via Latin vīcīnus"
+      },
+      {
+        "language": "Hindi",
+        "word": "वैश्य (vaiśya)",
+        "relationship": "inherited",
+        "note": "merchant/commoner caste; from viś ('settlement, people')"
+      },
+      {
+        "language": "Thai",
+        "word": "แพศย์ (phaet)",
+        "relationship": "borrowed",
+        "note": "the vaiśya caste"
+      }
+    ]
+  },
+  {
+    "root": "*h₁ers-",
+    "reconstructedMeaning": "to flow, be in motion; be wet",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "race",
+        "relationship": "inherited",
+        "note": "running, current (as in 'mill race'); via Old Norse rás. Also 'err' via Latin errāre"
+      },
+      {
+        "language": "German",
+        "word": "rasen",
+        "relationship": "inherited",
+        "note": "to speed, rage; connection possible but uncertain"
+      },
+      {
+        "language": "Spanish",
+        "word": "rocío",
+        "relationship": "inherited",
+        "note": "dew; via Latin rōs. Also errar"
+      },
+      {
+        "language": "Hindi",
+        "word": "रस (ras)",
+        "relationship": "inherited",
+        "note": "juice, taste, essence"
+      },
+      {
+        "language": "Thai",
+        "word": "รส (rot)",
+        "relationship": "borrowed",
+        "note": "taste, flavor"
+      }
+    ]
+  },
+  {
+    "root": "*kʷel-",
+    "reconstructedMeaning": "to turn, revolve; to dwell, cultivate",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "wheel",
+        "relationship": "inherited",
+        "note": "via reduplicated *kʷé-kʷl-o-; also 'culture', 'cult', 'colony', 'cycle' via Latin colere and Greek kyklos"
+      },
+      {
+        "language": "German",
+        "word": "Hals",
+        "relationship": "inherited",
+        "note": "neck, 'the turner'; connection debated"
+      },
+      {
+        "language": "Spanish",
+        "word": "cultura",
+        "relationship": "inherited",
+        "note": "also culto, colonia, ciclo"
+      },
+      {
+        "language": "Hindi",
+        "word": "चक्र (cakra)",
+        "relationship": "inherited",
+        "note": "wheel, disc; also चक्कर (chakkar, 'round, spin')"
+      },
+      {
+        "language": "Thai",
+        "word": "จักร (chak)",
+        "relationship": "borrowed",
+        "note": "wheel, disc; as in จักรยาน 'bicycle' and จักรวาล 'universe'"
+      }
+    ]
+  },
+  {
+    "root": "*ters-",
+    "reconstructedMeaning": "to dry, be dry",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "thirst",
+        "relationship": "inherited",
+        "note": "also 'terrain', 'territory' via Latin terra ('dry land'); 'toast', 'torrid' via Latin torrēre"
+      },
+      {
+        "language": "German",
+        "word": "Durst",
+        "relationship": "inherited",
+        "note": "thirst; also dürr ('dry, withered')"
+      },
+      {
+        "language": "Spanish",
+        "word": "tierra",
+        "relationship": "inherited",
+        "note": "land; also terreno, tostar, tórrido"
+      },
+      {
+        "language": "Hindi",
+        "word": "तृष्णा (tṛṣṇā)",
+        "relationship": "inherited",
+        "note": "thirst, craving"
+      },
+      {
+        "language": "Thai",
+        "word": "ตัณหา (tanhā)",
+        "relationship": "borrowed",
+        "note": "craving; from Pali taṇhā ← Sanskrit tṛṣṇā"
+      }
+    ]
+  },
+  {
+    "root": "*h₁rem-",
+    "reconstructedMeaning": "to rest, be calm, take pleasure",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "rest",
+        "relationship": "inherited",
+        "note": "possibly related; uncertain"
+      },
+      {
+        "language": "German",
+        "word": "Rast",
+        "relationship": "inherited",
+        "note": "rest, stopover; same uncertainty as English 'rest'"
+      },
+      {
+        "language": "Hindi",
+        "word": "आराम (ārām)",
+        "relationship": "inherited",
+        "note": "rest, comfort; also रमणीय (ramaṇīya, 'delightful'), राम (Rām, 'pleasing')"
+      },
+      {
+        "language": "Thai",
+        "word": "รมย์ (rom)",
+        "relationship": "borrowed",
+        "note": "delightful; as in รื่นรมย์ and ภิรมย์; also ราม (Rām)"
+      }
+    ]
+  },
+  {
+    "root": "*dyew-",
+    "reconstructedMeaning": "sky, shine; god",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "Tuesday",
+        "relationship": "inherited",
+        "note": "Tīw's day, from Proto-Germanic *Tīwaz ← *deywós; also 'divine', 'deity' via Latin"
+      },
+      {
+        "language": "German",
+        "word": "Ziu",
+        "relationship": "inherited",
+        "note": "the Old High German god; modern Dienstag is unrelated, but dialectal Swabian Zischtig comes from Ziu"
+      },
+      {
+        "language": "Spanish",
+        "word": "dios",
+        "relationship": "inherited",
+        "note": "also divino, día ('day'), jueves (Thursday, 'Jove's day')"
+      },
+      {
+        "language": "Hindi",
+        "word": "देव (dev)",
+        "relationship": "inherited",
+        "note": "god; also देवी (devī), दिव्य (divya, 'divine')"
+      },
+      {
+        "language": "Thai",
+        "word": "เทวดา (thewā-dā)",
+        "relationship": "borrowed",
+        "note": "deity; also ทิพย์ (thip, 'divine'), ทิวา (thiwā, 'day')"
+      }
+    ]
+  },
+  {
+    "root": "*n̥-mr̥-tó-",
+    "reconstructedMeaning": "not dying, immortal",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "immortal",
+        "relationship": "inherited",
+        "note": "via Latin in- + mortālis; also 'ambrosia' via Greek ambrotos ('immortal')"
+      },
+      {
+        "language": "Spanish",
+        "word": "inmortal",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "अमर (amar)",
+        "relationship": "inherited",
+        "note": "immortal; also अमृत (amṛt, 'nectar of immortality')"
+      },
+      {
+        "language": "Thai",
+        "word": "อมตะ (amata)",
+        "relationship": "borrowed",
+        "note": "immortal; also อมร (amon), อมฤต (amarit, 'ambrosia')"
+      }
+    ]
+  },
+  {
+    "root": "*men-",
+    "reconstructedMeaning": "to think",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "mind",
+        "relationship": "inherited",
+        "note": "also 'mental' via Latin mēns"
+      },
+      {
+        "language": "German",
+        "word": "Minne",
+        "relationship": "inherited",
+        "note": "courtly love, originally 'remembrance'"
+      },
+      {
+        "language": "Spanish",
+        "word": "mente",
+        "relationship": "inherited",
+        "note": ""
+      },
+      {
+        "language": "Hindi",
+        "word": "मन (man)",
+        "relationship": "inherited",
+        "note": "mind; also मंत्र (mantra)"
+      },
+      {
+        "language": "Thai",
+        "word": "มนัส (manat)",
+        "relationship": "borrowed",
+        "note": "mind; also มนตร์ (mon, 'magic spell')"
+      }
+    ]
+  },
+  {
+    "root": "*ǵʰeym-",
+    "reconstructedMeaning": "winter, snow",
+    "cognates": [
+      {
+        "language": "English",
+        "word": "hibernate",
+        "relationship": "inherited",
+        "note": "via Latin hībernus ('wintry')"
+      },
+      {
+        "language": "Spanish",
+        "word": "invierno",
+        "relationship": "inherited",
+        "note": "winter"
+      },
+      {
+        "language": "Hindi",
+        "word": "हिम (him)",
+        "relationship": "inherited",
+        "note": "snow, frost; as in हिमालय (Himālay, 'abode of snow')"
+      },
+      {
+        "language": "Thai",
+        "word": "หิมะ (hima)",
+        "relationship": "borrowed",
+        "note": "snow; also หิมพานต์ (Himmaphan, the mythical Himalayan forest)"
+      }
+    ]
+  }
+]
