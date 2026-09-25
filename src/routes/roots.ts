@@ -3,23 +3,33 @@ import { Root } from "../models/Root.js";
 
 const router = Router();
 
-// GET /roots — list all roots
-router.get("/", async (_req, res) => {
+// GET /roots — optional filters: ?language=Thai&curated=true
+router.get("/", async (req, res) => {
   try {
-    const roots = await Root.find().sort({ root: 1 });
+    const { language, curated } = req.query;
+    const filter: any = {};
+
+    if (language && typeof language === "string") {
+      filter["cognates.language"] = language;
+    }
+    if (curated === "true") {
+      filter.isCurated = true;
+    }
+
+    const roots = await Root.find(filter).sort({ isCurated: -1, root: 1 });
     res.json(roots);
-  } catch (err) {
+  } catch {
     res.status(500).json({ error: "Failed to fetch roots" });
   }
 });
 
-// GET /roots/:id — single root
+// GET /roots/:id
 router.get("/:id", async (req, res) => {
   try {
     const root = await Root.findById(req.params.id);
     if (!root) return res.status(404).json({ error: "Root not found" });
     res.json(root);
-  } catch (err) {
+  } catch {
     res.status(400).json({ error: "Invalid ID" });
   }
 });

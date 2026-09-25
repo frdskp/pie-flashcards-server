@@ -24,6 +24,7 @@ const rootSchema = new mongoose.Schema(
     reconstructedMeaning: { type: String, required: true },
     cognates: { type: [cognateSchema], default: [] },
     aiExplanation: { type: String, default: "" },
+    isCurated: { type: Boolean, default: false },
   },
   { timestamps: true }
 );
