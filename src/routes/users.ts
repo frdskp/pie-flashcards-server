@@ -70,4 +70,10 @@ router.patch("/me/languages", requireAuth, async (req: AuthRequest, res) => {
   res.json(user);
 });
 
+router.delete("/me", requireAuth, async (req: AuthRequest, res) => {
+  const user = await User.findByIdAndDelete(req.userId);
+  if (!user) return res.status(404).json({ error: "User not found" });
+  res.json({ ok: true });
+});
+
 export default router;

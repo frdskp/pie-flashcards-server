@@ -20,7 +20,7 @@ const userSchema = new mongoose.Schema(
     spokenLanguages: {
       type: [String],
       enum: ["English", "German", "Spanish", "Hindi", "Thai"],
-      default: ["English"],
+      default: [],
     },
   },
   { timestamps: true }
